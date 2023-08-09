@@ -1,7 +1,7 @@
 # Projects
 
 #Backend - 
-  * Social Media Platform to prevent duplicate image upload: 
+  * Social Media Platform to prevent duplicate content upload (images for now): 
 
       Technologies & Tools Used: Python - Django, REST APIs, firebase, Postman
 
