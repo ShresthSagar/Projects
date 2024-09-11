@@ -6,6 +6,12 @@
       Technologies & Tools Used: Python - Django, REST APIs, firebase, Postman
 
       Backend Admin Link - https://neu8rino.pythonanywhere.com/admin
+
+ * Django Package - Custom Login Authentication System Library with customized Admin pages: 
+
+      Technologies & Tools Used: Python - Django, Django REST Framework
+
+      Link - To be updated   
   
   * Late Fine Calculation Script for Travclan:
 
